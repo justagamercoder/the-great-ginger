@@ -1,0 +1,5 @@
+Picked up _JAVA_OPTIONS: -Xmx4G
+Invalid maximum heap size: -Xmx4G
+The specified size exceeds the maximum representable size.
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
